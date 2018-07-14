@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Mon Jul 09 13:48:46 MSK 2018
+2.base=C\:\\Users\\Luitg\\Desktop\\TestProject\\app\\build\\intermediates\\assets\\debug
+5.set=ASSET
+0.path=sampledata/рпропопол.png
+2.baseType=DIRECTORY
+3.base=C\:\\Users\\Luitg\\Desktop\\TestProject\\app\\build\\intermediates\\assets\\debug
+2.set=ASSET
+1.path=sampledata/пнгпгнп.png
+4.base=C\:\\Users\\Luitg\\Desktop\\TestProject\\app\\build\\intermediates\\assets\\debug
+count=6
+5.baseType=DIRECTORY
+2.path=sampledata/Безымянный.jpg
+5.base=C\:\\Users\\Luitg\\Desktop\\TestProject\\app\\build\\intermediates\\assets\\debug
+4.set=ASSET
+3.path=sampledata/Безымянный.bmp
+3.baseType=DIRECTORY
+1.set=ASSET
+4.path=sampledata/пнгпгнп/Java Tutorial - Java Files.readAllBytes(Path path).html
+1.baseType=DIRECTORY
+5.path=sampledata/пропрпо.png
+0.base=C\:\\Users\\Luitg\\Desktop\\TestProject\\app\\build\\intermediates\\assets\\debug
+0.baseType=DIRECTORY
+3.set=ASSET
+1.base=C\:\\Users\\Luitg\\Desktop\\TestProject\\app\\build\\intermediates\\assets\\debug
+4.baseType=DIRECTORY
+0.set=ASSET
